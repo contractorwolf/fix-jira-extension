@@ -1,6 +1,8 @@
 # Jira Announcement Blocker
 
 This Chrome Extension blocks the annoying JIRA announcement banner in yellow at the top of the screen.  For me this banner was useless and took up too much visual space. If you remove this extension you will see the announcements banner again. 
+
+![alt text](https://github.com/contractorwolf/blob/master/images/github/jira-announcement-banner.jpg?raw=true)
  
 All you need to do is clone the repo to your local machine and then go to the Chrome Extension page in Google chrome, here:
 ```
